@@ -1,0 +1,245 @@
+@font-face {
+    font-family: "Neue Machina";
+    src: url(../fonts/Neue\ Machina/NeueMachina-Light.otf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: "Neue Machina";
+    src: url(../fonts/Neue\ Machina/NeueMachina-Regular.otf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Neue Machina";
+    src: url(../fonts/Neue\ Machina/NeueMachina-Ultrabold.otf);
+    font-weight: 700;
+}
+
+img {
+    width: 100%;
+}
+
+.bg-green {
+    background: #789F7F;
+    background-image: url("../img/new-bg-line.jpg");
+    background-position: top center;
+	background-repeat: no-repeat;
+    padding-top: 12px;
+}
+
+.title-light {
+    text-align: center;
+    font-family: "Neue Machina";
+    font-weight: 700;
+    color: #789F7F;
+}
+
+.line-light {
+    border-bottom: 2px solid #789F7F;
+    width: 60%;
+    display: block;
+    margin: auto;
+}
+
+.subtitle-light {
+    color: black;
+}
+
+.text-light {
+    line-height: 1.6;
+    font-size: 14px;
+    color: black;
+}
+
+.title-light2 {
+    text-align: center;
+    font-family: "Neue Machina";
+    font-weight: 700;
+    color: #789F7F;
+}
+
+.line {
+    margin: auto;
+    display: block;
+}
+
+.btn-primary {
+    margin: auto;
+    width: 50%;
+    display: block;
+}
+
+.mg-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn.btn-primary {
+    background: #BB9739;
+    border-color: #BB9739;
+    color: #fff;
+    font-family: "Neue Machina", sans-serif;
+    font-weight: 700;
+    text-transform: none;
+    font-size: 20px;
+}
+
+.bg-primary {
+    background-image: url(../img/curriculo-bg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.title-dark {
+    color: white;
+    font-family: "Neue Machina";
+    font-weight: 700;
+    margin: 0;
+}
+
+.lista-nina {
+    list-style-image: url(../img/lista-nina.svg);
+    font-size: 14px;
+    line-height: 22px;
+    margin: 0;
+}
+
+.lista-nina li {
+    margin: 4px 0;
+}
+
+.line-dark {
+    border-bottom: 2px solid #A1BD9B;
+    width: 40%;
+    display: block;
+    margin: 8px 0;
+}
+
+.line-dark-center {
+    border-bottom: 2px solid #A1BD9B;
+    width: 40%;
+    display: block;
+    margin: 16px auto;
+}
+
+.bg-white {
+    background-color: white;
+    padding: 64px 0;
+}
+
+.line-dark2 {
+    border-bottom: 2px solid #A1BD9B;
+    width: 30%;
+    display: block;
+    margin: 18px 0;
+}
+
+.psico-nome {
+    font-family: "Neue Machina", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: black;
+    text-align: center;
+    margin: 12px auto 24px;
+}
+
+.atendimento-image {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin: 48px 0 24px 0;
+}
+
+.atendimento-image img {
+    width: 80px;
+    margin: 0 18px 0 0;
+}
+
+.atendimento-title {
+    font-family: "Neue Machina", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0;
+    color: white;
+}
+
+.line-dark3 {
+    border-bottom: 2px solid #A1BD9B;
+    width: 70%;
+    display: block;
+    margin: 18px auto;
+}
+
+.clinica-endereco {
+    font-size: 14px;
+    color: black;
+    text-align: center;
+    line-height: 1.6;
+}
+
+.info-slot {
+    margin: 32px 0 48px;
+}
+
+.info-image {
+    width: 50px;
+    margin-right: 48px;
+}
+
+.content-list {
+    color: black;
+    font-family: "Neue Machina", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.footer-v2 {
+    background-color: #789F7F;
+    padding: 32px 0 0;
+}
+
+.footer-logo {
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+.footer-text {
+    color: white;
+    font-size: 12px;
+    line-height: 1.8;
+    text-align: left;
+}
+
+.footer-title {
+    font-weight: 700;
+    margin: 24px 0;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-icon {
+    width: 32px;
+    margin: 0 5px;
+}
+
+.footer-image {
+    display: block;
+    width: 75%;
+    margin: auto;
+}
+
+.main-footer {
+    background: #789F7F;
+    background-image: url("../img/new-bg-line.jpg");
+    background-position: bottom center;
+	background-size: cover;
+    padding-top: 12px;
+    margin-top: 32px;
+}
